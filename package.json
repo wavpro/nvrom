@@ -1,0 +1,11 @@
+{
+  "name": "nvrom",
+  "version": "0.0.1",
+  "description": "NVROM Highlighting syntax for highlight.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
